@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GamesComponenets
+namespace GamesComponenets.Games
 {
     public interface IGameMechanism
     {

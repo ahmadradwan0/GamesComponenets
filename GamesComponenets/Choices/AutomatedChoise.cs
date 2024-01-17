@@ -28,7 +28,7 @@ namespace GamesComponenets.Choices
                 case 3:
                     return "S"; // Scissors
                 default:
-                    throw new InvalidOperationException("Unexpected random number.");
+                    throw new InvalidOperationException("Unexpected random number . . .");
             }
         }
     }
